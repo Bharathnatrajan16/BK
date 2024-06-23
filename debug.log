@@ -1,0 +1,2 @@
+[2364:6812:0610/163611.322:VERBOSE1:installer.cc(386)] "D:\Practice\CucumberProject\driver\ChromeSetup.exe" --port=52089 --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={F3CAB977-BF22-F629-B1C4-B9D9234DDFD5}&lang=en&browser=4&usagestats=0&appname=Google%20Chrome&needsadmin=prefers&ap=x64-stable --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+[2364:6812:0610/163658.030:VERBOSE1:installer.cc(491)] Metainstaller WMain returned: 0, Windows error: 0
